@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://claytonrichey.com/post/intro/</loc>
+    <lastmod>2018-05-27T21:49:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://claytonrichey.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://claytonrichey.com/</loc>
+    <lastmod>2018-05-27T21:49:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://claytonrichey.com/post/</loc>
+    <lastmod>2018-05-27T21:49:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://claytonrichey.com/tags/</loc>
     <priority>0</priority>
   </url>
   
