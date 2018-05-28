@@ -6,18 +6,20 @@
     <description>Recent content on Clayton Richey&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 May 2018 21:49:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 May 2018 23:02:46 +0000</lastBuildDate>
     
 	<atom:link href="https://claytonrichey.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Intro</title>
-      <link>https://claytonrichey.com/post/intro/</link>
-      <pubDate>Sun, 27 May 2018 21:49:24 +0000</pubDate>
+      <title>Pipes for basic IPC between C/C&#43;&#43; and Python</title>
+      <link>https://claytonrichey.com/post/c-cpp-python-pipe/</link>
+      <pubDate>Sun, 27 May 2018 23:02:46 +0000</pubDate>
       
-      <guid>https://claytonrichey.com/post/intro/</guid>
-      <description>Welcome to my site! There&amp;rsquo;s not much here yet, but stay tuned.</description>
+      <guid>https://claytonrichey.com/post/c-cpp-python-pipe/</guid>
+      <description>Introduction Recently I encountered the following circumstances:
+ C++ program (Linux) needs to call a Python script. The Python script needs access to some APIs from the C++ program. Using the Python/C API is not an option.  Python/C API for embedding Python in the application would probably be the cleanest approach, but as mentioned above, it was not an option in this case.
+One approach considered was to use pipes.</description>
     </item>
     
   </channel>
