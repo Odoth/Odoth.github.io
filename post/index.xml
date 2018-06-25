@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Clayton Richey&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 May 2018 23:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jun 2018 17:13:04 -0700</lastBuildDate>
     
 	<atom:link href="https://claytonrichey.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cross Platform Desktop Apps with PySide/PyQt</title>
+      <link>https://claytonrichey.com/post/pyside-pyqt-app/</link>
+      <pubDate>Sun, 03 Jun 2018 17:13:04 -0700</pubDate>
+      
+      <guid>https://claytonrichey.com/post/pyside-pyqt-app/</guid>
+      <description>Introduction While web applications are increasingly the go-to approach for modern applications, native desktop applications undoubtedly still have their place.
+Qt is a very robust, well documented, cross-platform GUI framework. Qt is a C++ framework, but conveniently there are bindings for many other languages including Python. Additionally, we can use Qt Designer for WYSIWYG design of our GUI layout.
+We can also use other tools such as cx_Freeze to create an executable application and InnoSetup to create a Windows installer.</description>
+    </item>
     
     <item>
       <title>Pipes for basic IPC between C/C&#43;&#43; and Python</title>
